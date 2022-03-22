@@ -35,7 +35,4 @@ function getAnimalMap(options) {
   return includeNames(options);
 }
 
-console.log(objByLocation());
-
-
 module.exports = getAnimalMap;
